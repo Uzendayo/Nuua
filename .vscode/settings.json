@@ -41,6 +41,7 @@
         "xutility": "cpp",
         "algorithm": "cpp",
         "atomic": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "fstream": "cpp"
     }
 }
