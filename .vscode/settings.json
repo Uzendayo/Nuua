@@ -42,6 +42,8 @@
         "algorithm": "cpp",
         "atomic": "cpp",
         "iostream": "cpp",
-        "fstream": "cpp"
+        "fstream": "cpp",
+        "array": "cpp",
+        "iterator": "cpp"
     }
 }
